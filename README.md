@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranishsiwakoti
 - 👀 I’m interested in computer technology
-- 🌱 I’m currently learning cooding
+- 🌱 I’m a Student
 - 💞️ I’m looking to collaborate on nasa
 - 📫 How to reach me idk
 
