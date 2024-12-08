@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Pranishsiwakoti
-- 👀 I’m interested in computer technology
-- 🌱 I’m a Student
-- 💞️ I’m looking to collaborate on nasa
-- 📫 How to reach me idk
+👋 Hi, I'm Pranish Siwakoti!
+🎓 I'm a passionate student from Nepal with a keen interest in computers and technology.
+💻 I enjoy exploring various aspects of IT, from coding to troubleshooting and everything in between.
+🌟 Always eager to learn, collaborate, and contribute to innovative projects.
 
-<!---
-Pranishsiwakoti/Pranishsiwakoti is a ✨ special ✨ repository because its `Superman` (this guy) appears on your GitHub profile.
---->
+📫 Let's connect:
+
+Instagram: @officialpranishsiwakoti
+Facebook: Pranish Siwakoti 
